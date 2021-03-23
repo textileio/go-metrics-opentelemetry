@@ -1,4 +1,4 @@
-module github.com/jsign/go-metrics-opentelemetry
+module github.com/textileio/go-metrics-opentelemetry
 
 go 1.16
 
